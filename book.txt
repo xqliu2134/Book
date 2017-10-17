@@ -16,3 +16,6 @@ http://blog.csdn.net/qq_36946260/article/details/78138233
 
 Android应用盈利广告平台的嵌入方法详解
 http://blog.csdn.net/listening_music/article/details/7037941
+
+HTTP协议—— 简单认识TCP/IP协议
+http://www.cnblogs.com/roverliang/p/5176456.html
