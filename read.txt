@@ -1,0 +1,5 @@
+1：gradle编译命令
+gradle assembleRelease
+
+2：查看android系统内存运行暂用率
+dumpsys meminfo | grep market
