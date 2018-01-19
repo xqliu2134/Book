@@ -7,9 +7,13 @@ http://blog.csdn.net/u011228356/article/details/45026431
 
 Google推荐的图片加载库Glide介绍
 http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html
+http://blog.csdn.net/zhangxichao100/article/details/52579151
 
 CoCos2d_android入门所需知道的一切
 http://blog.csdn.net/u014486880/article/details/50418485
+Cocos2d-x v3.16 用户手册
+http://docs.cocos.com/cocos2d-x/manual/zh/
+http://www.cocoachina.com/bbs/read.php?tid=199939
 
 一些优秀的开源项目
 http://blog.csdn.net/qq_36946260/article/details/78138233
@@ -25,3 +29,15 @@ http://www.zhimengzhe.com/Androidkaifa/109523.html
 
 一个web免费框架源码
 https://adminlte.io/
+
+一个web免费框架源码
+https://gitee.com/geek_qi/ace-security
+
+使用 support.v4 包下的 ViewDragHelper 实现 QQ5.0 侧滑
+https://github.com/BlueMor/DragLayout
+
+一个小说阅读器app
+https://github.com/MewX/light-novel-library_Wenku8_Android#libs
+
+一个Web端的小说阅读器
+https://github.com/ShanaMaid/oho-reader

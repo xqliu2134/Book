@@ -25,3 +25,16 @@
 目前Google在Android系统方面的态度和策略也都是非盈利性质的，
 和Symbian的签名有本质的区别，而我们使用Eclipse+ADT插件从开发环境安装到手机中的APK文件已经
 包含了ADT插件的Debug签名文件，所以没有安装，但是最终发行的版本需要自己的key去签名。
+
+
+创建加密文件
+keytool -genkey -v -keystore dazen.keystore -alias dazen.keystore -keyalg RSA -validity 20000
+
+查看SHA1
+keytool -list -keystore dazen.keystore
+
+手动加密APK
+jarsigner -verbose -sigalg SHA1withDSA -digestalg SHA1 -keystore ./dazen.keysotre -storepass dazen9527 JustWayward-BookReader/app/VReader.apk
+
+比较SHA1加密后是否一样
+keytool -printcert -file VReader/META-INF/DAZEN_KE.RSA
